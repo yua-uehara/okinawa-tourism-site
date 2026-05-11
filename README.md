@@ -1,2 +1,2 @@
-# okinawa-tourism-site
-沖縄の観光地を紹介するシンプルなWebサイト
+# yokatsu-travel-site
+沖縄県与勝半島の観光地を紹介するシンプルなWebサイト
